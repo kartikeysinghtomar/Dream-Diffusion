@@ -1,6 +1,6 @@
 # DreamDiffusion — BCS Summer Project 2025
 
-Implementation of DreamDiffusion for EEG-to-image generation, developed as part of the Brain and Cognitive Society (BCS) Summer Project 2025 at IIT Kanpur.
+Implementation of DreamDiffusion for EEG to image generation, developed as part of the Brain and Cognitive Society (BCS) Summer Project 2025 at IIT Kanpur.
 
 ## Overview
 
